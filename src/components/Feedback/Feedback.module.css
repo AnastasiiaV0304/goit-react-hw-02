@@ -1,0 +1,10 @@
+.feedbackLi {
+  list-style: none;
+}
+
+ul {
+  margin-right: 40px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
